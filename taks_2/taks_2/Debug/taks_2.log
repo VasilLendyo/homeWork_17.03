@@ -1,0 +1,3 @@
+﻿  taks_2.cpp
+C:\Users\Я\source\homeWork_17.03\taks_2\taks_2\taks_2.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  taks_2.vcxproj -> C:\Users\Я\source\homeWork_17.03\taks_2\Debug\taks_2.exe
